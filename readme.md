@@ -1,4 +1,4 @@
-![dashboard.png](Images/dashboard.png)
+![dashboard.png](Images/dashboard1.png)
 <br><br>
 
 # Multi-Client Operations Intelligence System
@@ -146,7 +146,7 @@ Avg_Drop_Off_Rate := AVERAGE([Drop_off_Rate])
 - Cross-filtered slicers connected across all three Pivot Tables via Report Connections
 - Combo chart: user adoption volume vs. drop-off rate — surfaces whether growth is masking a retention problem
 
-![dashboard.png](Images/dashboard.png)
+![dashboard.png](Images/dashboard1.png)
 <br><br>
 
 ### Automation — VBA + Google Apps Script
