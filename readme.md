@@ -20,9 +20,28 @@ This leads to
 - Inability to compare performance across clients
 - Reactive decision-making instead of proactive control
 
+---
 
+## Table of Contents
+
+1. [The Problem This Solves](#the-problem-this-solves)
+2. [Business Scenario](#business-scenario)
+3. [What the Data Actually Looked Like](#what-the-data-actually-looked-like)
+4. [How It Was Built](#how-it-was-built)
+   - [ETL — Power Query](#etl--power-query)
+   - [Data Model — Power Pivot Star Schema](#data-model--power-pivot-star-schema)
+   - [Business Logic — DAX](#business-logic--dax)
+   - [Dashboard](#dashboard)
+   - [Automation — VBA + Google Apps Script](#automation--vba--google-apps-script)
+5. [What It Finds](#what-it-finds)
+6. [Technical Stack](#technical-stack)
+7. [Project Structure](#project-structure)
+8. [How to Run](#how-to-run)
+9. [Strategic Positioning](#strategic-positioning)
+10. [Author](#author)
 
 ---
+
 > How can multiple operational datasets be unified into a single BI layer that enables cross-client visibility, risk detection, and automated executive reporting — without a dedicated data warehouse?
 ---
 This project builds the reporting infrastructure that eliminates that problem. 
